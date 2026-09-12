@@ -67,23 +67,7 @@ Relationship:
 - One Admin can manage multiple Employees (1-to-many)
 ```
 
----
 
-## 🚀 Setup Instructions
-1. **Clone the repository**  
-```bash
-git clone https://github.com/Shruti627/EmployeeManagementSystem.git
-```
-
-**Import into Eclipse**
-```
-File → Import → Existing Maven Project → Select cloned folder
-
-Right-click project → Run As → Maven build or Run on server (Tomcat)
-
-Access in browser: http://localhost:8080/EmployeeManagementSystem/
-
-```
 ## 🔮 Future Enhancements
 - Role-based access (Admin vs Employee)
 - Integration with Spring Security for authentication
