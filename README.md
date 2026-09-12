@@ -89,5 +89,4 @@ Access in browser: http://localhost:8080/EmployeeManagementSystem/
 - Integration with Spring Security for authentication
 - REST APIs for CRUD operations
 
-## 👩‍🎓 Author
-**Shruti P. Sangvikar** – Third-year Engineering Student
+
